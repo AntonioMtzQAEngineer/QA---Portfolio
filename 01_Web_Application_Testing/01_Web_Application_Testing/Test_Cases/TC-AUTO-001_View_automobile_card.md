@@ -21,5 +21,7 @@ Priority: High
 ❌ Actual Result:
 - The "Reserved" overlay hides the automobile title and price
 
-🐞 Related Bug:
-- BUG-001_Automobile_reserved_overlay_hides_title_and_price
+---
+
+🐞 **Related Bug**
+- [BUG-001 – Automobile reserved overlay hides title and price](../Bug_Reports/BUG-001_Automobile_reserved_overlay_hides_title_and_price.md)
