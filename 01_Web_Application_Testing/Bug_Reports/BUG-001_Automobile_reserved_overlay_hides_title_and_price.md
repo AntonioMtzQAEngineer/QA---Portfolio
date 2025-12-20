@@ -1,6 +1,9 @@
 # 🐞 BUG-001 – Automobile reserved overlay hides title and price
 
 ---
+✅ Related Test Case:
+- TC-AUTO-001_View_automobile_card
+
 
 ## 📌 Summary
 When an automobile is marked as **reserved**, a dark overlay appears and hides the automobile title and price, making them unreadable.
